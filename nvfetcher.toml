@@ -1,0 +1,6 @@
+# nvfetcher configuration for unms-research
+# Run `nvfetcher` to update _sources/generated.nix
+
+[research]
+src.manual = "1.0.0"
+fetch.url = "https://un.ms/research/downloads/1.0.0/Research_1.0.0_amd64.deb"

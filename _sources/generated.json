@@ -1,0 +1,17 @@
+{
+    "research": {
+        "cargoLocks": null,
+        "date": null,
+        "extract": null,
+        "name": "research",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-lRcK2JUKzYVf/OQVGAk0cLqmACMl+SUCCKiTvueuy6M=",
+            "type": "url",
+            "url": "https://un.ms/research/downloads/1.0.0/Research_1.0.0_amd64.deb"
+        },
+        "version": "1.0.0"
+    }
+}
